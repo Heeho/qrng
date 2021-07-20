@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">qrng</string>
+  <string name="about">
+    <b>QRNG</b>
+    \r\n\r\n
+    Генератор случайных локаций с использованием источника квантовой энтропии\r\nltow_ru@gmail.com, 2021
+  </string>
+  <string name="nolocation">"Местоположение неизвестно. "</string>
+  <string name="gpsoff">"Необходимо включить GPS для получения исходного местоположения (не используется сторонними средствами)."</string>
+  <string name="cluster">"Скопление: "</string>
+  <string name="hole">"Пустота: "</string>
+  <string name="distance">"Дистанция, м: "</string>
+</resources>

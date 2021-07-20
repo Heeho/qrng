@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">qrng</string>
+  <string name="about">
+    <b>QRNG</b>
+    \r\n\r\n
+    Location link generator using quantum entropy source.\r\nltow_ru@gmail.com, 2021
+  </string>
+  <string name="nolocation">"Last location unknown yet. "</string>
+  <string name="gpsoff">"Please turn on GPS to get initial location (not used by 3rd parties)."</string>
+  <string name="cluster">"Cluster: "</string>
+  <string name="hole">"Hole: "</string>
+  <string name="distance">"Distance, m: "</string>
+</resources>

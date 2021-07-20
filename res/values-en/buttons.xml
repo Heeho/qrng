@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="aboutB">About</string>
+  <string name="qrngB">QRNG</string>
+  <string name="anuB">Get locations</string>
+</resources>

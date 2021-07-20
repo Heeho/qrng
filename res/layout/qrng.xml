@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="match_parent"
+  android:layout_height="wrap_content"
+  android:layout_gravity="center"
+  android:layout_margin="2dp"
+  android:orientation="vertical">
+
+  <ru.ltow.qrng.SBToolTip
+    android:id="@+id/ttipTV"
+    android:gravity="center"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"/>
+
+  <SeekBar
+    android:id="@+id/distanceSB"
+    android:tag="@string/distance"
+    android:gravity="center"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center" />
+
+  <Button
+    android:id="@+id/anuB"
+    android:text="@string/anuB"
+    android:onClick="anu"
+    android:gravity="center"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center" />
+
+  <TextView
+    android:id="@+id/resultTV"
+    android:autoLink="all"
+    android:gravity="center"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"/>
+
+  <ru.ltow.qrng.Squares
+    android:id="@+id/squaresV"
+    android:gravity="center"
+    android:layout_width="200dp"
+    android:layout_height="200dp"
+    android:layout_gravity="center"/>
+
+</LinearLayout>

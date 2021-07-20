@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="aboutB">О программе</string>
+  <string name="qrngB">QRNG</string>
+  <string name="anuB">Получить координаты</string>
+</resources>
